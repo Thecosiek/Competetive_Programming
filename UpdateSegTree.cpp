@@ -2,6 +2,8 @@
 // the longest contiguous non-decreasing sequence in segment [a;b]
 // input: n - arrat lenght, m - amount of actions, in each of m lines either 'N', a, b, k for action N or 'C', a, b for action C. 
 
+//solve - clever seg tree with updates and lazy propagation
+
 //Maksymilian Piątek
 #include<bits/stdc++.h>
 using namespace std;

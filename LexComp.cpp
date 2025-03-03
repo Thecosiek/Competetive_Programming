@@ -4,6 +4,7 @@
 
 // Solve - standard lexigraphic comparator algorythm with bucket sort
 
+// Maksymilian Piątek
 #include <bits/stdc++.h>
 using namespace std;
 
